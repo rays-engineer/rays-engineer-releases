@@ -43,7 +43,7 @@ app, which sends what Claude reads to Anthropic.
 
 ## Bugs and feedback
 
-On Discord: **[discord.gg/FykQBSSHF8](https://discord.gg/FykQBSSHF8)** — bugs in `bug-reports`,
+On Discord: **[https://discord.gg/HdP2qAQ4cm](https://discord.gg/HdP2qAQ4cm)** — bugs in `bug-reports`,
 ideas in `ideas`. Issues and pull requests are switched off here.
 
 ## Why GitHub?
