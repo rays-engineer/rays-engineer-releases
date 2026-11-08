@@ -53,5 +53,4 @@ the downloads for free, so the app stays free.
 
 ## License
 
-[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) —
-you may use and share Rays Engineer for any noncommercial purpose. Commercial use is not permitted.
+You may use and share Rays Engineer for any noncommercial purpose. Commercial use is not permitted.
