@@ -38,12 +38,12 @@ Requirements: Windows 10 or 11, 64-bit.
 ## Privacy
 
 No account, no cloud, no network access: the app blocks every outgoing request, your data stays on
-your PC. The optional Claude integration is off until you connect it, and runs through *your* Claude
+your PC. The optional Claude integration is off until you connect it, and runs through _your_ Claude
 app, which sends what Claude reads to Anthropic.
 
 ## Bugs and feedback
 
-On Discord: **[https://discord.gg/HdP2qAQ4cm](https://discord.gg/HdP2qAQ4cm)** — bugs in `bug-reports`,
+On Discord: **[discord.gg/HdP2qAQ4cm](https://discord.gg/HdP2qAQ4cm)** — bugs in `bug-reports`,
 ideas in `ideas`. Issues and pull requests are switched off here.
 
 ## Why GitHub?
@@ -53,4 +53,5 @@ the downloads for free, so the app stays free.
 
 ## License
 
-You may use and share Rays Engineer for any noncommercial purpose. Commercial use is not permitted.
+[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) —
+you may use and share Rays Engineer for any noncommercial purpose. Commercial use is not permitted.

@@ -13,6 +13,20 @@ Before creating release/x.y.z, rename [Unreleased] to [x.y.z] – <date>; the re
 without a section for its version.
 -->
 
+## [0.0.2] – 2026-11-09
+
+### Fixed
+
+- ACC: the track map was mirrored (also in recordings made so far), which also threw off the Balance view (it compares steering with the driven line).
+- Analysis › Traces: switching an extra chart's wheel (FL/FR/RL/RR), adding or removing a chart no longer jumps back to the top.
+- ACC: **voice feedback** stayed silent — without a track length from the game the live lap was too short to analyse; the app now measures it like the recording does.
+- Importing an `.rlap` shows only the exported lap, not the second or so before and after it as extra laps.
+- Settings › About: **Report a bug (Discord)** and **Downloads** open the current Discord invite and the new releases page.
+
+### Changed
+
+- Analysis › Traces: the steering chart's scale fits the laps shown (ACC rarely steers past ±40 % of full lock) instead of a fixed ±100 %.
+
 ## [0.0.1] – 2026-10-31
 
 ### Added
